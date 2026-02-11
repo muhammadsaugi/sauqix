@@ -170,7 +170,7 @@ const Contact = () => {
             © copyright by Sauqi segaf
           </p>
           <p className="text-slate-500 text-sm">
-            Sauqi ❤️ 
+            Sauqi ❤️ Raisa
           </p>
         </motion.div>
       </footer>
